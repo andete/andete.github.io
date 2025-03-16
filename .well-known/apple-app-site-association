@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "SV87YZANNN.be.damad.Seed-Bag-Inventory"],
+             "components": [
+               {
+                  "/": "/joost/apple/*",
+                  "comment": "Joost's Apple Area"
+               },
+             ]
+           }
+       ]
+   },
+}
