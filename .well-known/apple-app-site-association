@@ -5,7 +5,7 @@
              "appIDs": [ "SV87YZANNN.be.damad.Seed-Bag-Inventory"],
              "components": [
                {
-                  "/": "/joost/apple/*",
+                  "/": "/joost/apple/sbi/*",
                   "comment": "Joost's Apple Area"
                },
              ]
