@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "SV87YZANNN.be.damad.Seed-Bag-Inventory"],
+             "appIDs": [ "SV87YZANNN.be.damad.Yerplante"],
              "components": [
                {
                   "/": "/joost/apple/sbi/*",
